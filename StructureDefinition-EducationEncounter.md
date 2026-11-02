@@ -1,4 +1,4 @@
-# Test Encounter profil - Moas Kurs-IG v0.1.0
+# Test Encounter profil - Nikitas Kurs-IG v0.1.0
 
 * [**Table of Contents**](toc.md)
 * [**Artifacts Summary**](artifacts.md)
@@ -38,7 +38,7 @@ Other representations of profile: [CSV](StructureDefinition-EducationEncounter.c
   "name" : "EducationEncounter",
   "title" : "Test Encounter profil",
   "status" : "draft",
-  "date" : "2026-11-02T10:46:29+00:00",
+  "date" : "2026-11-02T10:54:30+00:00",
   "publisher" : "FHIR-utbildning",
   "jurisdiction" : [{
     "coding" : [{

@@ -1,4 +1,4 @@
-# Artifacts Summary - Moas Kurs-IG v0.1.0
+# Artifacts Summary - Nikitas Kurs-IG v0.1.0
 
 * [**Table of Contents**](toc.md)
 * **Artifacts Summary**

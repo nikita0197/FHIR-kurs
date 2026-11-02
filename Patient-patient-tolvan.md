@@ -1,4 +1,4 @@
-# Tolvan Tolvansson - Moas Kurs-IG v0.1.0
+# Tolvan Tolvansson - Nikitas Kurs-IG v0.1.0
 
 * [**Table of Contents**](toc.md)
 * [**Artifacts Summary**](artifacts.md)

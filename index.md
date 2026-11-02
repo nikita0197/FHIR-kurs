@@ -1,4 +1,4 @@
-# Hem - Moas Kurs-IG v0.1.0
+# Hem - Nikitas Kurs-IG v0.1.0
 
 * [**Table of Contents**](toc.md)
 * **Hem**
@@ -45,9 +45,9 @@ Detta är en R4 IG. Inga av funktionerna den använder har ändrats i R4B, så d
   "url" : "http://example.org/fhir/education/kursig/ImplementationGuide/fhir.education.kursig",
   "version" : "0.1.0",
   "name" : "FhirEducationKursIG",
-  "title" : "Moas Kurs-IG",
+  "title" : "Nikitas Kurs-IG",
   "status" : "draft",
-  "date" : "2026-11-02T10:46:29+00:00",
+  "date" : "2026-11-02T10:54:30+00:00",
   "publisher" : "FHIR-utbildning",
   "description" : "En liten Implementation Guide som byggs upp steg för steg under FHIR-utbildningen.",
   "jurisdiction" : [{

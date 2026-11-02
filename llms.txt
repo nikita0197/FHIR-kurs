@@ -1,4 +1,4 @@
-# fhir.education.kursig#0.1.0: Moas Kurs-IG
+# fhir.education.kursig#0.1.0: Nikitas Kurs-IG
 
 ## Pages
 
@@ -14,7 +14,7 @@
 
 ### ImplementationGuides
 
-* [Moas Kurs-IG](index.md)
+* [Nikitas Kurs-IG](index.md)
 
 ### Examples
 
