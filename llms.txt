@@ -9,6 +9,7 @@
 
 ### Resource Profiles
 
+* [Test Encounter profil](StructureDefinition-EducationEncounter.md)
 * [Education Patient](StructureDefinition-EducationPatient.md)
 
 ### ImplementationGuides
